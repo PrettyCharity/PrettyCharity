@@ -3,11 +3,12 @@
 print('Hello from the Netherlands!')
 ```
 
- - I am Can (*pronounced like the common English name John*)
- - Passion for mathematics, statistics and computers since 4 years old 👶
+ - My name is pronounced like the common English name *John* ❗
+ - Passionate for mathematics, statistics and computers since 4 years old 👶
  - 6 years of engineering studies in :tr:, 🇳🇱, :it:.
  - Data Science journey since Jan 2021 🚀
- - Community Teachning Assistant for Python courses at MIT
+ - Community Teachning Assistant for Python courses at MIT 👨‍🏫
+ - Most self-confident in cooking 👨‍🍳 and riding 2-wheels 🏍️ 
  
 
 **Skills:**
