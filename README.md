@@ -14,6 +14,6 @@ print('Hello from the Netherlands!')
 
 Python | numpy | pandas | matplotlib - seaborn | sklearn | tensorflow | pytorch | SQL
 
-
+---
 ![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyCharity&show_icons=true&theme=merko)
 
