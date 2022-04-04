@@ -12,7 +12,7 @@ print('Hello from the Netherlands!')
 
 **Skills:**
 
-Python | numpy | pandas | matplotlib - seaborn | sklearn | tensorflow | pytorch | SQL
+`python & numpy & pandas & matplotlib - seaborn & sklearn & tensorflow & pytorch & SQL`
 
 ---
 ![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyCharity&show_icons=true&theme=merko)
